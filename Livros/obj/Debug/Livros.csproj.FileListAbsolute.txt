@@ -1,0 +1,7 @@
+C:\Users\johna\source\repos\Livros\Livros\bin\Debug\Livros.exe.config
+C:\Users\johna\source\repos\Livros\Livros\bin\Debug\Livros.exe
+C:\Users\johna\source\repos\Livros\Livros\bin\Debug\Livros.pdb
+C:\Users\johna\source\repos\Livros\Livros\obj\Debug\Livros.csprojResolveAssemblyReference.cache
+C:\Users\johna\source\repos\Livros\Livros\obj\Debug\Livros.csproj.CoreCompileInputs.cache
+C:\Users\johna\source\repos\Livros\Livros\obj\Debug\Livros.exe
+C:\Users\johna\source\repos\Livros\Livros\obj\Debug\Livros.pdb
